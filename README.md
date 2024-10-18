@@ -49,7 +49,8 @@
 ###
 
 <div align="left">
- [![Linkedin](https://img.shields.io/badge/-Rafael sá de Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314))]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314))
+ [![Linkedin](https://img.shields.io/badge/-Rafael-sá-de-Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314))]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314))
+  
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/rafaeltws)
 </div>
 
