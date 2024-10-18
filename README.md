@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="left">Hello World! 👋</h1>
 
-<!--
-**rafaeltws/rafaeltws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Rafael Sá, atualmente sou aluno do 2º ano da Fiap scholo</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre Mim:</h2>
+
+###
+
+<p align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de NODE.JS, TS, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</p>
+
+###
+
+<h2 align="left">MINHAS LINGUAGENS:</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaeltws&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rafaeltws&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=10&order=3" height="140" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">Aonde me encontrar:</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Rafaeltws-181717?logo=github&logoColor=white&style=for-the-badge" height="29" alt="github logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Rafael Jesus-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="29" alt="linkedin logo"  />
+</div>
+
+###
