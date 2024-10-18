@@ -49,9 +49,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Rafaeltws-181717?logo=github&logoColor=white&style=for-the-badge" height="29" alt="github logo"(github.com/rafaeltws) />
-  <img width="20" />
-  <img src="https://img.shields.io/badge/Rafael Jesus-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="29" alt="linkedin logo" (https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314)  />
+ [![Linkedin](https://img.shields.io/badge/-Rafael sá de Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314))]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314))
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/rafaeltws)
 </div>
 
 ###
