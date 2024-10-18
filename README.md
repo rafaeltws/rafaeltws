@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">MINHAS LINGUAGENS:</h2>
+<h2 align="left">MINHAS HABILIDADES:</h2>
 
 ###
 
