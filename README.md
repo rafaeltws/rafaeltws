@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de NODE.JS, TS, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</p>
+<p align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de TypeScript, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</p>
 
 ###
 
