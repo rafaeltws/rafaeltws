@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael Sá, atualmente sou aluno do 2º ano da Fiap school</p>
+<p align="left">Meu nome é Rafael Sá, atualmente sou aluno do 2º ano da Fiap scholo</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de TypeScript, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</p>
+<h4 align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de TypeScript, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</h4>
 
 ###
 
-<h2 align="left">MINHAS HABILIDADES:</h2>
+<h2 align="left">MINHAS LINGUAGENS:</h2>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="15" />
