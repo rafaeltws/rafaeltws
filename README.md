@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de TypeScript, REACT.JS, NEXT.JS e SASS<br>🎲 Estudando programação desde 2023</h4>
+<h4 align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de TypeScript, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</h4>
 
 ###
 
@@ -34,13 +34,15 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaeltws&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="142" alt="languages graph"  />
 </div>
 
 ###
