@@ -29,6 +29,8 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   <img width="15" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="30" alt="sass logo"  />
+  <img width="15" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
@@ -42,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaeltws&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="142" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="142" alt="languages graph"  />
 </div>
 
 ###
