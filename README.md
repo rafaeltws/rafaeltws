@@ -51,4 +51,4 @@
 
 <h3 align="left">Aonde me encontrar:</h3>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BL0%2FRMMMpRhW27wJl%2FX%2FR7w%3D%3D)
