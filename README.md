@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de REACT.JS, NEXT.JS, REST.JS<br>🎲 Estudando programação desde 2023</h4>
+<h4 align="left">✨ Criando diversos projetos aos poucos<br>📚Estou fazendo curso de TypeScript, REACT.JS, NEXT.JS<br>🎲 Estudando programação desde 2023</h4>
 
 ###
 
@@ -44,19 +44,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rafaeltws&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=7&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeltws&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <h3 align="left">Aonde me encontrar:</h3>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="29" alt="github logo"  />
-  <img width="20" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="29" alt="linkedin logo"  />
-</div>
-
-###
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rafael-s%C3%A1-de-jesus-bba425314/))
