@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael Sá, atualmente sou aluno do 2º ano da Fiap school</p>
+<p align="left">Meu nome é Rafael Sá, atualmente sou aluno do 3º ano da Fiap school</p>
 
 ###
 
